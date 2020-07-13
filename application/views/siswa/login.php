@@ -21,7 +21,7 @@
 <body class="hold-transition login-page">
 <div class="login-box" style="width: 500px">
   <div class="login-logo">
-    <b>LOGIN PPDB<br>SMK KHISOFT TECHNOLOGY</b></a>
+    <b>LOGIN PPDB</b></a>
   </div>
   <!-- /.login-logo -->
   <?php echo $this->session->flashdata('pesan')?>

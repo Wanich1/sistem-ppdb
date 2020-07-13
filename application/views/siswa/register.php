@@ -21,7 +21,7 @@
 <body class="hold-transition login-page">
 <div class="login-box" style="width: 500px;">
   <div class="login-logo">
-    <b>SIGN UP PPDB<br>SMK KHISOFT TECHNOLOGY</b></a>
+    <b>SIGN UP PPDB</b></a>
   </div>
 
   <!-- /.register-logo -->

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Dashboard | PPDB SMK KHISOFT TECHNOLOGY</title>
+  <title>Dashboard | PPDB</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
@@ -132,7 +132,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright © 2020 <a href="http://if.itats.ac.id">Informatika ITATS KKN 2020</a>.</strong>
+    <strong>Copyright © 2020 <a href="http://if.itats.ac.id">Informatika ITATS KKN 2020PEMJAR</a>.</strong>
   </footer>
 
   <!-- Control Sidebar -->
